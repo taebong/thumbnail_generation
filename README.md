@@ -55,3 +55,7 @@ Default output: `<data folder>/_thumbnails/` (override with `--out DIR`). Datase
 - **Multi-position**: one output per position (`<name>_<PositionName>`).
 
 `python make_thumbnails.py -h` lists all options; `--dry-run` lists the datasets it would process.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
