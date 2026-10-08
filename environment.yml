@@ -1,0 +1,11 @@
+name: thumbnails
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - tifffile>=2024.5
+  - zarr
+  - imagecodecs
+  - imageio-ffmpeg
+  - pillow>=10.1
